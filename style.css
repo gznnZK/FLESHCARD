@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 footer {
@@ -12,6 +12,6 @@ footer {
 }
 footer p {
     text-align: center;
-    font-size: 0.6rem;
+    font-size: 1.0rem;
     margin-top: 0.5rem;
 }
